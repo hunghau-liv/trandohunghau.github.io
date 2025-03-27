@@ -1,0 +1,48 @@
+.avatar {
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}/* filepath: c:\Users\ADMIN\Desktop\TranDoHungHau\style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background: #0078d7;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+}
+
+.introduction {
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.introduction h2 {
+    color: #0078d7;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #333;
+    color: #fff;
+    margin-top: 2rem;
+}
